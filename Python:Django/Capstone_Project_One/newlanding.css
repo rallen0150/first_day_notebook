@@ -1,0 +1,29 @@
+#landing {
+  color: white;
+  font-family: cursive;
+  text-align: center;
+  background-color: #011627;
+  border: 60px solid #33CCCC;
+}
+
+p {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+input {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+  font-family: cursive;
+}
+
+#submitbutton{
+  border-radius: 25px;
+  background: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  font-family: cursive;
+  font-size: 1.2em;
+  margin-bottom: 4px;
+
+}
